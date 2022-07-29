@@ -48,6 +48,14 @@
                 <%= t('button.save') %>
               </button>
 
+              <div id="answers">
+                <%= form.fields_for :answers do |answer| %>
+                  <%= render partial: "answer_fields", locals: { f:answer } %>
+                <% end %>
+
+                <%= link_to_add_association '[Adicionar Resposta]', form, :answers %>
+              </div>
+
             <% end %>
           </div>          
         </div>        
