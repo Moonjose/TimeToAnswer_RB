@@ -14,9 +14,6 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "engines": {
-    "node": "14.20.0"
-  },
   "repository": "git@github.com:Moonjose/TimeToAnswer_RB.git",
   "author": "Jose Antonio <ajose9975@gmail.com>",
   "license": "MIT"
