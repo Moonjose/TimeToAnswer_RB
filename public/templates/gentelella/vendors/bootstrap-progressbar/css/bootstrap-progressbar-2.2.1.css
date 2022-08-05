@@ -77,7 +77,7 @@
   background-image: -o-linear-gradient(top, #f5f5f5, #f9f9f9);
   background-image: linear-gradient(to bottom, #f5f5f5, #f9f9f9);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#fff9f9f9', GradientType=0);
+  
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
@@ -100,7 +100,7 @@
   background-image: -o-linear-gradient(top, #149bdf, #0480be);
   background-image: linear-gradient(to bottom, #149bdf, #0480be);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff149bdf', endColorstr='#ff0480be', GradientType=0);
+  
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
@@ -145,7 +145,7 @@
   background-image: -o-linear-gradient(top, #ee5f5b, #c43c35);
   background-image: linear-gradient(to bottom, #ee5f5b, #c43c35);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffee5f5b', endColorstr='#ffc43c35', GradientType=0);
+  
 }
 .progress-danger.progress-striped .bar,
 .progress-striped .bar-danger {
@@ -165,7 +165,7 @@
   background-image: -o-linear-gradient(top, #62c462, #57a957);
   background-image: linear-gradient(to bottom, #62c462, #57a957);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff57a957', GradientType=0);
+  
 }
 .progress-success.progress-striped .bar,
 .progress-striped .bar-success {
@@ -185,7 +185,7 @@
   background-image: -o-linear-gradient(top, #5bc0de, #339bb9);
   background-image: linear-gradient(to bottom, #5bc0de, #339bb9);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff339bb9', GradientType=0);
+  
 }
 .progress-info.progress-striped .bar,
 .progress-striped .bar-info {
@@ -205,7 +205,7 @@
   background-image: -o-linear-gradient(top, #fbb450, #f89406);
   background-image: linear-gradient(to bottom, #fbb450, #f89406);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
+  
 }
 .progress-warning.progress-striped .bar,
 .progress-striped .bar-warning {
@@ -258,7 +258,7 @@
   background-image: -o-linear-gradient(top, #f5f5f5, #f9f9f9);
   background-image: linear-gradient(to bottom, #f5f5f5, #f9f9f9);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#fff9f9f9', GradientType=0);
+  
   background-repeat: repeat;
 }
 .progress.vertical.bottom {
@@ -290,7 +290,7 @@
   background-image: -o-linear-gradient(top, #ee5f5b, #c43c35);
   background-image: linear-gradient(to bottom, #ee5f5b, #c43c35);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffee5f5b', endColorstr='#ffc43c35', GradientType=0);
+  
   background-repeat: repeat;
 }
 .progress-danger.progress-striped.vertical .bar,
@@ -311,7 +311,7 @@
   background-image: -o-linear-gradient(top, #62c462, #57a957);
   background-image: linear-gradient(to bottom, #62c462, #57a957);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff57a957', GradientType=0);
+  
   background-repeat: repeat;
 }
 .progress-success.progress-striped.vertical .bar,
@@ -332,7 +332,7 @@
   background-image: -o-linear-gradient(top, #5bc0de, #339bb9);
   background-image: linear-gradient(to bottom, #5bc0de, #339bb9);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff339bb9', GradientType=0);
+  
   background-repeat: repeat;
 }
 .progress-info.progress-striped.vertical .bar,
@@ -353,7 +353,7 @@
   background-image: -o-linear-gradient(top, #fbb450, #f89406);
   background-image: linear-gradient(to bottom, #fbb450, #f89406);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
+  
   background-repeat: repeat;
 }
 .progress-warning.progress-striped.vertical .bar,
