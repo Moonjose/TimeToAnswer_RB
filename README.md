@@ -1,24 +1,29 @@
-# README
+# Funcionalidades do projeto (PT-BR)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Crie uma conta para poder comentar os posts
 
-Things you may want to cover:
+* Suporte a internacionalização
 
-* Ruby version
+* Paginação de posts
 
-* System dependencies
+* Arquivados por período na direita
 
-* Configuration
+* Artigos separados por categorias
 
-* Database creation
+* Para criar um artigo é necessario estar logado como administrador
 
-* Database initialization
+* Caso queira testar as funcionalidades de admin, clone o projeto na sua máquina e crie um usuário com admin=true
 
-* How to run the test suite
+# Project features (EN)
 
-* Services (job queues, cache servers, search engines, etc.)
+* Create an account to be able to comment on posts
 
-* Deployment instructions
+* I18n support
 
-* ...
+* Pagination
+
+* Archived by period on the right
+
+* To create an article, you must be logged in as an admin.
+
+* If you want to test the admin functionality, clone the project on your machine and create a user with admin=true
