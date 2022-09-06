@@ -24,6 +24,8 @@
 
 * Archived by period on the right
 
+* Articles separated by categories
+
 * To create an article, you must be logged in as an admin.
 
 * If you want to test the admin functionality, clone the project on your machine and create a user with admin=true
